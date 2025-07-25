@@ -18,6 +18,6 @@ g++ project1.cpp -o quizgame
 ./quizgame
 
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-- **Yuvraj Singh** – [GitHub](https://github.com/YUVRAJ-SINGH-3178)
+- "Yuvraj Singh" – [GitHub](https://github.com/YUVRAJ-SINGH-3178)
