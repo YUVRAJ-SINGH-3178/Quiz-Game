@@ -16,3 +16,8 @@ Compile the code using a C++ compiler like `g++`:
 ```bash
 g++ project1.cpp -o quizgame
 ./quizgame
+
+
+## 👨‍💻 Author
+
+- **Yuvraj Singh** – [GitHub](https://github.com/YUVRAJ-SINGH-3178)
